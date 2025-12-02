@@ -14,7 +14,7 @@ It includes admin login and CRUD operations for managing properties.
 ---
 
 ## 🛠 Tech Used
-PHP • MySQL • HTML • CSS
+PHP • MySQL • HTML • CSS (**Internal CSS styling**)
 
 ---
 
